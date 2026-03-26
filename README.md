@@ -1,6 +1,6 @@
-# YZM212-ml-lab2
+# Logistic Regression
 
-Bu repoda YZM212 Makine Öğrenmesi dersi için yapılan laboratuvar ödevi bulunmaktadır.
+Bu repoda YZM212 Makine Öğrenmesi dersi için yapılan 2.laboratuvar ödevi bulunmaktadır.
 
 ## İçerik
 
